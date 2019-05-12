@@ -1424,7 +1424,7 @@ var Answer = function Answer() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fanswer&absolutePagePath=%2FUsers%2Feduardopedroso%2Fask-randy%2Fpages%2Fanswer.js ***!
   \********************************************************************************************************************************/
@@ -1447,5 +1447,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=answer.js.map

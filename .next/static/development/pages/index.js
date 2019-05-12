@@ -9656,16 +9656,34 @@ var _jsxFileName = "/Users/eduardopedroso/ask-randy/pages/index.js";
 
 var Index = function Index() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    style: {
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      marginTop: 20
+    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/answer",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    style: {
+      borderRadius: '100%',
+      width: 300,
+      marginBottom: 25
+    },
+    src: "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/50827357_2149169931807353_4801843659643289600_n.jpg?_nc_cat=100&_nc_ht=scontent-ams3-1.xx&oh=b83e82dc6ebdefe6f8e8f582ae648ccd&oe=5D6CF27A",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/answer",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -9676,7 +9694,7 @@ var Index = function Index() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 10
     },
     __self: this
   }, " Ask randy!")));
